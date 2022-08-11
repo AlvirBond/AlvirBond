@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlvirBond (Anton/Alvir)
-- 👀 I’m interested in game and history.
+- 👀 I’m interested in games and history.
 - 🌱 I’m currently learning Unity and game disign
 - 💞️ I’m looking to collaborate on employer from all over the world
 - 📫 How to reach me. Write to mail alvir.bond@gmail.com
